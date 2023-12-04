@@ -1,0 +1,5 @@
+package br.com.restapi.exceptions;
+
+public class UnsupportedMathOperationException {
+
+}
